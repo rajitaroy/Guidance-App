@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Guidance-App/static/css/main.b7e98b2e.chunk.css",
+    "main.js": "/Guidance-App/static/js/main.7078d7f5.chunk.js",
+    "main.js.map": "/Guidance-App/static/js/main.7078d7f5.chunk.js.map",
+    "runtime-main.js": "/Guidance-App/static/js/runtime-main.75f51a21.js",
+    "runtime-main.js.map": "/Guidance-App/static/js/runtime-main.75f51a21.js.map",
+    "static/js/2.bf44d81a.chunk.js": "/Guidance-App/static/js/2.bf44d81a.chunk.js",
+    "static/js/2.bf44d81a.chunk.js.map": "/Guidance-App/static/js/2.bf44d81a.chunk.js.map",
+    "index.html": "/Guidance-App/index.html",
+    "precache-manifest.9aff8a47e38f7ca2ddd22b454f02bebd.js": "/Guidance-App/precache-manifest.9aff8a47e38f7ca2ddd22b454f02bebd.js",
+    "service-worker.js": "/Guidance-App/service-worker.js",
+    "static/css/main.b7e98b2e.chunk.css.map": "/Guidance-App/static/css/main.b7e98b2e.chunk.css.map",
+    "static/js/2.bf44d81a.chunk.js.LICENSE.txt": "/Guidance-App/static/js/2.bf44d81a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Guidance-App/static/media/city.5909bf67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75f51a21.js",
+    "static/js/2.bf44d81a.chunk.js",
+    "static/css/main.b7e98b2e.chunk.css",
+    "static/js/main.7078d7f5.chunk.js"
+  ]
+}
